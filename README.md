@@ -7,7 +7,7 @@ python fixtures.py -h ----> for Usage instructions
 
 python fixtures.py -l [league] ----> find fixtures for specified league using league key words.
 League Keywords:
-EPL - English Premiere League
+EPL - English Premiere League\n
 LLS - La Liga Santander
 GBL - German Bundesliga
 ISA - Italian Seria A
